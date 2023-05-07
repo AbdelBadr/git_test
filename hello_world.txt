@@ -1,2 +1,6 @@
 Hey, it is a pleasure to be here. 
+<<<<<<< HEAD
 No, It is not
+=======
+No, it is not
+>>>>>>> bff1bfc99fd257828b6b1e6a8def5895de83592e
